@@ -1,0 +1,41 @@
+/*
+*
+* @author José Augusto Silva
+* @version 0.1
+*/
+
+.body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Barra de navegação */
+
+.navbar-custom {
+  height: 80px;
+  padding: 0;
+  background-color: #000;
+}
+
+.container-custom {
+  height: 80px;
+}
+
+.logo-nav {
+  height: 42px;
+  width: 132px;
+}
+
+.nav-link-custom {
+  color: #fff;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.nav-item a:hover {
+  color: #1ed760;
+}
+
+.divisor {
+  color: #fff;
+  margin: 7px 15px 0 15px;
+}
